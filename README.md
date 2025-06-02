@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nikifilms
-- 👀 I’m interested in comic book, video games, supernatural
-- 🌱 I’m currently learning pthon and css
+- 👋 Hi, I’m @CyberMoon
+- 👀 I’m interested in comic books, video games, supernatural
+- 🌱 I’m currently learning C# for unity and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/they
